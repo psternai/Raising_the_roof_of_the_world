@@ -1,0 +1,168 @@
+/LOADFILE_TYPE_AMIRAFILE__TYPE__XBEG__XEND__XRESOL__YBEG__YEND__YRESOL
+clim340.prn  b   climt340.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim340.prn  b   climc340.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim340.prn  b   climd340.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim340.prn  b   climv340.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim0.prn  b   climt0.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim0.prn  b   climc0.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim0.prn  b   climd0.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim0.prn  b   climv0.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim10.prn  b   climt10.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim10.prn  b   climc10.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim10.prn  b   climd10.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim10.prn  b   climv10.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim20.prn  b   climt20.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim20.prn  b   climc20.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim20.prn  b   climd20.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim20.prn  b   climv20.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim30.prn  b   climt30.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim30.prn  b   climc30.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim30.prn  b   climd30.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim30.prn  b   climv30.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim40.prn  b   climt40.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim40.prn  b   climc40.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim40.prn  b   climd40.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim40.prn  b   climv40.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim50.prn  b   climt50.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim50.prn  b   climc50.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim50.prn  b   climd50.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim50.prn  b   climv50.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim60.prn  b   climt60.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim60.prn  b   climc60.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim60.prn  b   climd60.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim60.prn  b   climv60.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim70.prn  b   climt70.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim70.prn  b   climc70.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim70.prn  b   climd70.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim70.prn  b   climv70.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim80.prn  b   climt80.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim80.prn  b   climc80.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim80.prn  b   climd80.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim80.prn  b   climv80.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim90.prn  b   climt90.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim90.prn  b   climc90.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim90.prn  b   climd90.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim90.prn  b   climv90.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim100.prn  b   climt100.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim100.prn  b   climc100.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim100.prn  b   climd100.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim100.prn  b   climv100.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim110.prn  b   climt110.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim110.prn  b   climc110.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim110.prn  b   climd110.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim110.prn  b   climv110.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim120.prn  b   climt120.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim120.prn  b   climc120.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim120.prn  b   climd120.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim120.prn  b   climv120.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim130.prn  b   climt130.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim130.prn  b   climc130.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim130.prn  b   climd130.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim130.prn  b   climv130.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim140.prn  b   climt140.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim140.prn  b   climc140.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim140.prn  b   climd140.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim140.prn  b   climv140.txt  v     0.0  1.0   1001    0.0   1.00   271 
+clim150.prn  b   climt150.txt  t     0.0  1.0   1001    0.0   1.00   271 
+clim150.prn  b   climc150.txt  c     0.0  1.0   1001    0.0   1.00   271 
+clim150.prn  b   climd150.txt  d     0.0  1.0   1001    0.0   1.00   271 
+clim150.prn  b   climv150.txt  v     0.0  1.0   1001    0.0   1.00   271 
+
+clim470.prn  b   climt470.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim470.prn  b   climc470.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim480.prn  b   climt480.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim480.prn  b   climc480.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim490.prn  b   climt490.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim490.prn  b   climc490.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim500.prn  b   climt500.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim500.prn  b   climc500.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim510.prn  b   climt510.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim510.prn  b   climc510.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim520.prn  b   climt520.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim520.prn  b   climc520.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim530.prn  b   climt530.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim530.prn  b   climc530.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim540.prn  b   climt540.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim540.prn  b   climc540.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim550.prn  b   climt550.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim550.prn  b   climc550.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim560.prn  b   climt560.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim560.prn  b   climc560.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim570.prn  b   climt570.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim570.prn  b   climc570.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim580.prn  b   climt580.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim580.prn  b   climc580.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim590.prn  b   climt590.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim590.prn  b   climc590.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim600.prn  b   climt600.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim600.prn  b   climc600.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim610.prn  b   climt610.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim610.prn  b   climc610.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim620.prn  b   climt620.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim620.prn  b   climc620.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim630.prn  b   climt630.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim630.prn  b   climc630.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim640.prn  b   climt640.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim640.prn  b   climc640.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim650.prn  b   climt650.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim650.prn  b   climc650.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim660.prn  b   climt660.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim660.prn  b   climc660.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim670.prn  b   climt670.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim670.prn  b   climc670.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim680.prn  b   climt680.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim680.prn  b   climc680.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim690.prn  b   climt690.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim690.prn  b   climc690.txt  c     0.0  1.0  12001    0.0   1.00   601 
+clim700.prn  b   climt700.txt  t     0.0  1.0   2001    0.0   1.00   101 
+clim700.prn  b   climc700.txt  c     0.0  1.0  12001    0.0   1.00   601 
+~
+
+/GENERAL_PARAMETERS
+2010-printmod
+1-timedir
+1-movemod
+1-tempmod
+1-markmod
+0-ratemod
+0-gridmod
+0-intermod
+0-intermod1
+2-outgrid 
+3-densimod
+
+/ERROSION_SEDIMENTATION_PARAMETERS
+0-erosmod
+4000-eroslev
+3e-11-eroscon
+0e-13-eroskoe
+4000-sedilev
+1e-11-sedicon
+0e-13-sedikoe
+20-sedimcyc
+4000-waterlev
+0.30-slopemax
+
+/STOKES_CONTINUITY_PARAMETERS
+1e-04-DIVVMIN
+1e-06-STOKSMIN
+1-stoksmod
+1-presmod
+0-stoksfd
+1e+16-nubeg  
+1e+25-nuend  
+1e+18-nucontr
+10e+3-hidry
+6e-1-hidrl
+0e-10-strmin
+5e+28-strmax
+
+/HEAT_TRANSFER_PARAMETERS
+1e-8-HEATMIN
+0-heatmod
+0-heatfd 
+1.0-heatdif 
+14-frictyn
+1-adiabyn
+
+
